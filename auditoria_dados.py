@@ -35,7 +35,7 @@ for enc in ['latin1', 'utf-8', 'cp1252']:
 print("\n" + "="*70)
 print("TESTE 2 — TODAS AS FONTES DE COMBUSTIVEL E SUA POTENCIA")
 print("="*70)
-print("(usando o encoding que funcionou melhor no teste 1 — ajuste se preciso)")
+print("(usando o encoding que funcionou melhor no teste 1.)")
 
 ENCODING = 'latin1'   # <<< troque aqui se o teste 1 indicar outro
 
